@@ -1,6 +1,6 @@
 # 🤖 NeuralNode AI VPN 2026-2027: Enterprise Native IP Proxy for ChatGPT, Claude, Cursor & Midjourney (2026-2027 AI 开发者原生专线梯子指南)
 
-[![Update: 2026-2027](https://img.shields.io/badge/Update-2026--09--15%20Rolling-brightgreen)](https://github.com/NeuralNode-Dev/vpn)
+[![Update: 2026-2027](https://img.shields.io/badge/Update-2026--09--21%20Rolling-brightgreen)](https://github.com/NeuralNode-Dev/vpn)
 [![AI Native](https://img.shields.io/badge/AI%20Native-ChatGPT%20%7C%20Claude%20%7C%20Cursor-blue)](https://cloud.yuncat.net/#/register?code=IJOjygWb)
 [![Free Trial](https://img.shields.io/badge/Free%20Trial-%E5%85%8D%E8%B4%B9%E8%AF%95%E7%94%A8-orange)](https://cloud.yuncat.net/#/register?code=IJOjygWb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
